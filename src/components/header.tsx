@@ -30,14 +30,14 @@ const Header = ({ resumeInfo }: HeaderProps) => {
                 <h1>{resumeInfo.name}</h1>
             </div>
             <div className="links">
-                <div className="email">
+                {/* <div className="email">
                     <a href={'mailto:' + resumeInfo.email}>
                         {resumeInfo.email}
                     </a>
-                </div>
-                <div className="other">
+                </div> */}
+                {/* <div className="other">
                     {links}
-                </div>
+                </div> */}
             </div>
         </header>
     );

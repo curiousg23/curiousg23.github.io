@@ -23,16 +23,16 @@ const EducationSection = ({ education }: EducationProps) => {
                             GPA: {edu.overallGpa}
                         </div>
                     }
-                    {edu.majorGpa && 
+                    {/* {edu.majorGpa && 
                         <div className="gpa">
                             Major GPA: {edu.majorGpa}
                         </div>
-                    }
+                    } */}
                 </div>
             </div>
-            <div className="coursework">
+            {/* <div className="coursework">
                 <span className="title">Related Coursework: </span>{edu.coursework.join(', ')}
-            </div>
+            </div> */}
         </li>
     );
 
