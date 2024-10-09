@@ -31,7 +31,7 @@ CVPR 2021.
 [\[paper\]](/files/adversarial-robustness.pdf) [\[arXiv\]](https://arxiv.org/abs/2012.00802)
 3. [Learning Agile Locomotion Skills with a Mentor](https://ieeexplore.ieee.org/document/9561567)  
 Atil Iscen\*, **George Yu\***, Alejandro Escontrela, Deepali Jain, Jie Tan, Ken Caluwaerts.  
-(**\*Equal Contribution.**)  
+(**\* Equal Contribution.**)  
 ICRA 2021.  
 [\[paper\]](https://ieeexplore.ieee.org/document/9561567) [\[arXiv\]](https://arxiv.org/abs/2011.05541)
 
