@@ -12,7 +12,7 @@ title                    : "George Yu"
 title_separator          : "-"
 name                     : &name "George Yu"
 description              : &description "Operations Research PhD Candidate"
-url                      : https://george-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://curiousg23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "curiousg23/curiousg23.github.io"
 
